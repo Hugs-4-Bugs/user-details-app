@@ -1,4 +1,4 @@
-Here's an updated `README.md` file with detailed, streamlined instructions for cloning, setting up, and running your *User Details App*. This version includes sections for each command in a clear and attractive layout.
+# User Details App
 
 ```markdown
 # User Details App
